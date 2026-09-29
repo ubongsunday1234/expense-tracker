@@ -1,0 +1,36 @@
+==========MONTHLY REPORT==========
+2026-January: 0
+2026-February: 0
+2026-March: 0
+2026-April: 0
+2026-May: 0
+2026-June: 0
+2026-July: 0
+2026-August: 0
+2026-September: 154945.0
+2026-October: 154945.0
+2026-November: 154945.0
+2026-December: 154945.0
+
+==========CATEGORY REPORT==========
+savings=100000.0
+clothes=23973.0
+groceries=20972.0
+fuel=10000.0
+elctricity_bills=0
+entertainment=0
+water_bills=0
+transportation=0
+internet=0
+gifts_and_donations=0
+tithes=0
+offering=0
+TV=0
+children=0
+others=0
+
+==========SMALLEST AND LARGEST EXPENSE==========
+The largest expense made is 23973, on 2026-09-11 for clothes
+The smallest expense is 10000, on 2026-09-11 for fuel
+==========AVERAGE EXPENSE==========
+Average amount spent daily is 1231379.05215
